@@ -1,5 +1,6 @@
 ad soyad: cemile akay
 ogrenci no: 250541099
-![Uploading Ekran görüntüsü 2025-10-21 233917.png…]()
-![Uploading Ekran görüntüsü 2025-10-21 233525.png…]()
-![Uploading Ekran görüntüsü 2025-10-21 232945.png…]()
+
+
+<img width="1919" height="1140" alt="Ekran görüntüsü 2025-10-21 233917" src="https://github.com/user-attachments/assets/e60f6724-d51d-4699-854c-37f373164102" />
+<img width="1915" height="1139" alt="Ekran görüntüsü 2025-10-21 232945" src="https://github.com/user-attachments/assets/5d708708-8126-4e6b-b254-432a9837f7f0" />
