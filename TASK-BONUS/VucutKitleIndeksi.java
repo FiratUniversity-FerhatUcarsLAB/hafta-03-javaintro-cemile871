@@ -4,6 +4,9 @@ public class VucutKitleIndeksi {
 
     public static void main(String[] args) {
 
+        // BMI = kilo / (boy * boy)
+
+        // SABİT OLARAK ATANAN DEĞERLER (Değiştirilebilir)
         double kilo = 80.0;    // Kilogram cinsinden ağırlık
         double boy = 1.75;     // Metre cinsinden boy (Örn: 1.75)
 
@@ -11,8 +14,11 @@ public class VucutKitleIndeksi {
         System.out.println("      VÜCUT KİTLE İNDEKSİ (BMI) HESAPLAMA  ");
         System.out.println("==========================================");
 
+        // BMI Hesaplama
+        // boy * boy yerine Math.pow(boy, 2) de kullanılabilir.
         double bmi = kilo / (boy * boy);
 
+        // Çıktıyı 2 ondalık basamakla formatlama
         DecimalFormat df = new DecimalFormat("0.00");
 
         System.out.println("Kilo: " + kilo + " kg");
@@ -21,6 +27,7 @@ public class VucutKitleIndeksi {
         System.out.println("Vücut Kitle İndeksiniz (BMI): " + df.format(bmi));
         System.out.println("==========================================");
 
+        // Ek Bilgi (Yorumlama)
         if (bmi < 18.5) {
             System.out.println("Durum: Zayıf");
         } else if (bmi >= 18.5 && bmi <= 24.9) {
