@@ -5,18 +5,23 @@ public class UsluSayilarTablosu {
         System.out.println("===================================");
         System.out.println("        ÜSLÜ SAYILAR TABLOSU       ");
         System.out.println("===================================");
-        
+
+        // Başlık formatı ve çizgi
         String headerFormat = "| %-5s | %-5s | %-5s |\n";
         String line = "-----------------------------------\n";
 
         System.out.print(line);
+        // %-5s: Sola hizalı, 5 karakter genişliğinde metin
         System.out.printf(headerFormat, "a", "a^2", "a^3");
         System.out.print(line);
-        
+
+        // Değerlerin hesaplanması ve tabloya yazdırılması
+        // %-5d: Sola hizalı, 5 karakter genişliğinde tam sayı
         String rowFormat = "| %-5d | %-5d | %-5d |\n";
 
         for (int a = 1; a <= 5; a++) {
             int aKare = a * a;
+            // Math.pow() double döndürdüğü için int'e çeviriyoruz
             int aKup = (int) Math.pow(a, 3);
 
             System.out.printf(rowFormat, a, aKare, aKup);
