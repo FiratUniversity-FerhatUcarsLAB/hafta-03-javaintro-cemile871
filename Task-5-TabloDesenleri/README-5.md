@@ -1,6 +1,6 @@
 ad soyad: cemile akay
 ogrenci no: 250541099
 
-<img width="1919" height="1140" alt="Ekran görüntüsü 2025-10-21 233917" src="https://github.com/user-attachments/assets/e60f6724-d51d-4699-854c-37f373164102" />
-<img width="1915" height="1139" alt="Ekran görüntüsü 2025-10-21 232945" src="https://github.com/user-attachments/assets/5d708708-8126-4e6b-b254-432a9837f7f0" />
-<img width="1919" height="1139" alt="Ekran görüntüsü 2025-10-21 233525" src="https://github.com/user-attachments/assets/32b850d3-2782-40a5-b19f-8c67cb26501e" />
+<img width="1909" height="1139" alt="Ekran görüntüsü 2025-10-22 192609" src="https://github.com/user-attachments/assets/2a0472c1-1d07-4c10-abfd-3d375db31e21" />
+<img width="1915" height="1142" alt="Ekran görüntüsü 2025-10-22 192247" src="https://github.com/user-attachments/assets/d1ce90ce-6ad0-4505-a979-f991ef336fa3" />
+<img width="1919" height="1139" alt="Ekran görüntüsü 2025-10-22 191739" src="https://github.com/user-attachments/assets/cd79708a-3826-4d11-8d79-d6de5a5b0066" />
